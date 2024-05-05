@@ -3,10 +3,6 @@
     "url": "https://dl.bzzhr.co/1786907074000908288",
     "fileType": ".zip"
   },
-  "poopysync": {
-    "url": "https://dl.bzzhr.co/1786907074000908288",
-    "fileType": ".zip"
-  },
   "ReadingLogFiller": {
     "url": "https://dl.bzzhr.co/1777471132164104192",
     "fileType": ".exe"
