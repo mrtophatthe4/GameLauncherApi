@@ -1,10 +1,10 @@
 {
 "OverlaySync": {
-    url = "https://dl.bzzhr.co/1786907074000908288";
-    fileType = ".zip";
+    "url" : "https://dl.bzzhr.co/1786907074000908288";
+    "fileType" : ".zip";
   }
 "ReadingLogFiller":{
-    url = "https://dl.bzzhr.co/1777471132164104192";
-    fileType = ".exe";
+    "url" : "https://dl.bzzhr.co/1777471132164104192";
+    "fileType" : ".exe";
   }
 }
