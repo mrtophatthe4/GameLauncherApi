@@ -3,6 +3,10 @@
     "url": "https://dl.bzzhr.co/1786907074000908288",
     "fileType": ".zip"
   },
+  "RPCS3PkgInstaller": {
+    "url": "https://dl.bzzhr.co/1788038397117657088",
+    "fileType": ".zip"
+  },
   "ReadingLogFiller": {
     "url": "https://dl.bzzhr.co/1777471132164104192",
     "fileType": ".exe"
